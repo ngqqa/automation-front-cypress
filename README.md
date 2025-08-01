@@ -1,4 +1,4 @@
-# automation-ouvidoria-front-cypress
+# automation-front-cypress
 
 # cy-front-testing
 <img width="446" height="207" alt="image" src="https://github.com/user-attachments/assets/42a00fed-4ced-4441-a75b-f918d50e3953" />
@@ -19,10 +19,10 @@ Projeto de automação de testes para front-end com Cypress.
 ## Instalação
 
 1º - passo a ser executado para a instalação do projeto:
-Clonar o projeto: https://github.com/ngqqa/automation-ouvidoria-front-cypress/tree/develop_ouvidoria
+Clonar o projeto: https://github.com/ngqqa/automation-front-cypress/tree/develop
 
 2º - Acessar a pasta do projeto:
-cd automation-back-cypress
+cd automation-front-cypress
 
 3º - Executar o seguinte comando `npm install` para instalar as dependencias.
 
